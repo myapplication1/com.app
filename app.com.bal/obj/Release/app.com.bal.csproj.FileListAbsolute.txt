@@ -1,0 +1,7 @@
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Release\app.com.bal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Release\app.com.bal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Release\app.com.dal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Release\app.com.dal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\obj\Release\app.com.bal.csprojResolveAssemblyReference.cache
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\obj\Release\app.com.bal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\obj\Release\app.com.bal.pdb

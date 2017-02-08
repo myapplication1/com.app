@@ -5,3 +5,10 @@ c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\bin\De
 c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\obj\Debug\app.com.bal.csprojResolveAssemblyReference.cache
 c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\obj\Debug\app.com.bal.dll
 c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\obj\Debug\app.com.bal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Debug\app.com.bal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Debug\app.com.bal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Debug\app.com.dal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\bin\Debug\app.com.dal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\obj\Debug\app.com.bal.csprojResolveAssemblyReference.cache
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\obj\Debug\app.com.bal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.bal\obj\Debug\app.com.bal.pdb

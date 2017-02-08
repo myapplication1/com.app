@@ -3,3 +3,7 @@ c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.dal\bin\De
 c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.dal\obj\Debug\app.com.dal.csprojResolveAssemblyReference.cache
 c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.dal\obj\Debug\app.com.dal.dll
 c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.dal\obj\Debug\app.com.dal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\bin\Debug\app.com.dal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\bin\Debug\app.com.dal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\obj\Debug\app.com.dal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\obj\Debug\app.com.dal.pdb

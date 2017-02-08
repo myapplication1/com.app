@@ -1,0 +1,6 @@
+C:\Users\Dev_Pc\Source\Repos\com.app2\web forms\com.WebUI\bin\BeyondAdmin.WebForms.dll.config
+C:\Users\Dev_Pc\Source\Repos\com.app2\web forms\com.WebUI\bin\BeyondAdmin.WebForms.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\web forms\com.WebUI\bin\BeyondAdmin.WebForms.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\web forms\com.WebUI\obj\Release\app.com.WebForms.csprojResolveAssemblyReference.cache
+C:\Users\Dev_Pc\Source\Repos\com.app2\web forms\com.WebUI\obj\Release\BeyondAdmin.WebForms.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\web forms\com.WebUI\obj\Release\BeyondAdmin.WebForms.pdb

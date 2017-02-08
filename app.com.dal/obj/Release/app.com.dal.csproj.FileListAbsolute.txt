@@ -1,0 +1,4 @@
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\bin\Release\app.com.dal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\bin\Release\app.com.dal.pdb
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\obj\Release\app.com.dal.dll
+C:\Users\Dev_Pc\Source\Repos\com.app2\app.com.dal\obj\Release\app.com.dal.pdb

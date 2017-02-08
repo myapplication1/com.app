@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp1Y1T/HA7kGDDMc/FbotawAAAAACAAAAAAAQZgAAAAEAACAAAABaA9/fGDnK9xZ1r748u8FJcG0dcoZsSdedG2/FyTB2wQAAAAAOgAAAAAIAACAAAAA8VqR2UifrlyaYs3FOIq8nRiKViaBFaidek0sLmyH+azAAAACvXFqXkHBmMI0tFiKWvm3+BTt1jSMT2gHcPdeTpnKw/o4WdnC60ZWJ9H+6iolG5DRAAAAAufPAFwZbx5RklI+h7xZb6gnUmW49OE/4RKuLGQjKraWG6sKXiw/RN5kOrPS9DSYaJ5+BnGToXb+z9bpMn/4APg==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://demobanking.somee.com/www.demobanking.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
