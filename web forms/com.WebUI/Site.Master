@@ -287,13 +287,13 @@ Purchase: https://wrapbootstrap.com/theme/beyondadmin-adminapp-angularjs-mvc-WB0
                                             <img src="/assets/img/avatars/adam-jansen.jpg">
                                         </div>
                                         <section>
-                                            <h2><span class="profile"><span>David Stevenson</span></span></h2>
+                                            <h2><span class="profile"><span>com.app dev</span></span></h2>
                                         </section>
                                     </a>
                                     <!--Login Area Dropdown-->
                                     <ul class="pull-right dropdown-menu dropdown-arrow dropdown-login-area">
-                                        <li class="username"><a>David Stevenson</a></li>
-                                        <li class="email"><a>David.Stevenson@live.com</a></li>
+                                        <li class="username"><a>app.com development</a></li>
+                                        <li class="email"><a>app.com development</a></li>
                                         <!--Avatar Area-->
                                         <li>
                                             <div class="avatar-area">
