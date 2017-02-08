@@ -1,0 +1,7 @@
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\bin\Debug\app.com.bal.dll
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\bin\Debug\app.com.bal.pdb
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\bin\Debug\app.com.dal.dll
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\bin\Debug\app.com.dal.pdb
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\obj\Debug\app.com.bal.csprojResolveAssemblyReference.cache
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\obj\Debug\app.com.bal.dll
+c:\Users\Dev_Pc\documents\visual studio 2015\Projects\com.app\app.com.bal\obj\Debug\app.com.bal.pdb
