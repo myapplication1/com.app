@@ -456,7 +456,7 @@
                                 </div>
                                 <div class="task-time">yesterday</div>
                                 <div class="task-body">Code refactoring and rewriting silly codes and test it</div>
-                                <div class="task-creator"><a href="">David Fincher</a></div>
+                                <div class="task-creator"><a href="">app.com test</a></div>
                                 <div class="task-assignedto">assigned to Kim</div>
                             </li>
                         </ul>
